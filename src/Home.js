@@ -16,7 +16,7 @@ import speaker4 from './assets/images/contents/speaker4.jpg';
 import speaker5 from './assets/images/contents/speaker5.jpg';
 import speaker6 from './assets/images/contents/speaker6.jpg';
 
-import poster from './assets/images/contents/PosterSCDS2020.jpg';
+import poster from './assets/images/contents/PosterSCDS2021.jpg';
 
 import sponsor from './assets/images/contents/sponsor.jpg';
 
