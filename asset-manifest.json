@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-scds-website-sandbox/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/github-scds-website-sandbox/static/js/main.68462af5.chunk.js",
-    "main.js.map": "/github-scds-website-sandbox/static/js/main.68462af5.chunk.js.map",
+    "main.js": "/github-scds-website-sandbox/static/js/main.826a337b.chunk.js",
+    "main.js.map": "/github-scds-website-sandbox/static/js/main.826a337b.chunk.js.map",
     "runtime-main.js": "/github-scds-website-sandbox/static/js/runtime-main.948704ef.js",
     "runtime-main.js.map": "/github-scds-website-sandbox/static/js/runtime-main.948704ef.js.map",
     "static/js/2.e7a345e1.chunk.js": "/github-scds-website-sandbox/static/js/2.e7a345e1.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.6dea0f05.chunk.css.map": "/github-scds-website-sandbox/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.e7a345e1.chunk.js.LICENSE.txt": "/github-scds-website-sandbox/static/js/2.e7a345e1.chunk.js.LICENSE.txt",
     "static/media/Copyright-CtP_CCIS.34e19355.pdf": "/github-scds-website-sandbox/static/media/Copyright-CtP_CCIS.34e19355.pdf",
-    "static/media/PosterSCDS2020.c55465b6.jpg": "/github-scds-website-sandbox/static/media/PosterSCDS2020.c55465b6.jpg",
+    "static/media/PosterSCDS2021.92fe1315.jpg": "/github-scds-website-sandbox/static/media/PosterSCDS2021.92fe1315.jpg",
     "static/media/SCDS2019-Template.528a20d8.docx": "/github-scds-website-sandbox/static/media/SCDS2019-Template.528a20d8.docx",
     "static/media/SCDS2020.c975e686.jpg": "/github-scds-website-sandbox/static/media/SCDS2020.c975e686.jpg",
     "static/media/UiTM_Icon.eaf10e71.png": "/github-scds-website-sandbox/static/media/UiTM_Icon.eaf10e71.png",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.948704ef.js",
     "static/js/2.e7a345e1.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.68462af5.chunk.js"
+    "static/js/main.826a337b.chunk.js"
   ]
 }
