@@ -2,7 +2,7 @@
   "name": "scds-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muhamadridhwan.github.io/github-scds-website-sandbox/home",
+  "homepage": "https://muhamadridhwan.github.io/github-scds-website-sandbox/scds",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@opuscapita/react-responsive-navbar": "^3.4.0",
