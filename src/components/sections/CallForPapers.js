@@ -48,7 +48,7 @@ export const CallForPapers = () => (
         13.	Image Processing <br/>
         14. Computational Intelligence <br/>
         15.	Cloud Computing <br/>
-        16. Statistical Analysis (Computational Statistics) <br/>
+        16. Statistical Learning <br/>
 
     </p>
 

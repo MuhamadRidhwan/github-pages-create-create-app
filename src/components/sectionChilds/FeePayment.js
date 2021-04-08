@@ -34,7 +34,7 @@ export const FeePayment = () => (
       <u>PAYMENT BY WIRE TRANSFER/CHEQUE </u> <br/>
 
       Bank Account name: UNIVERSITI TEKNOLOGI MARA <br/>
-      Bank Account No: 12177010005662 <br/>
+      Bank Account No: TBA <br/>
       Bank Name: Bank Islam Malaysia Berhad <br/>
       Bank Address : Ground Floor, Bangunan Prima Siswa, Universiti Teknologi MARA <br/>
       City: Shah Alam <br/>
@@ -42,7 +42,7 @@ export const FeePayment = () => (
       Country: Malaysia <br/>
       Swift Code: BIMBMYKL <br/> <br/>
 
-      After performing the payment, please email a copy of the transaction to us at sharifahali@tmsk.uitm.edu.my and scds2019@fskm.uitm.edu.my 
+      After performing the payment, please email a copy of the transaction to us at nurbaizura@tmsk.uitm.edu.my and scds2021@uitm.edu.my 
       for record management. <br/> 
 
       All bank charges are to be borne by the participant. <br/> 

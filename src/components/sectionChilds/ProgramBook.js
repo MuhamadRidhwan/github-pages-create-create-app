@@ -14,6 +14,6 @@ export const ProgramBook = () => (
       </ol>
     </nav>
     <h2>Program Book</h2>
-    <p>This is mostly about us.</p>
+    <p></p>
   </div>
 )

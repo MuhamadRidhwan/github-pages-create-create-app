@@ -87,7 +87,7 @@ export const TechnicalCommittee = () => (
       <b> Publicity & Sponsorship Committee </b> <br/>
       <i>Ahmad Nazim Bin Aimran </i> <br/>
       Universiti Teknologi MARA <br/>
-      <i>Prof. Dr Nooritawati Md Tahir </i> <br/>
+      <i>Nooritawati Md Tahir </i> <br/>
       ReNeU, Universiti Teknologi MARA <br/>
       <i>Siti Haslinda Mohd Din </i> <br/>
       Jabatan Perangkaan Malaysia <br/> 

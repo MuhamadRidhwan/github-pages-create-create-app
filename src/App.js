@@ -37,6 +37,7 @@ class App extends Component {
           {/* <Jumbotron /> */}
           <Layout>
             <Switch>
+              <Route exact path='/ github-scds-website-sandbox/' component={Home} />       
               <Route exact path='/scds2021/' component={Home} />           
               <Route path="/scds2021/home" component={Home} />   
               <Route path="/scds2021/callPapers" component={CallForPapers} />            

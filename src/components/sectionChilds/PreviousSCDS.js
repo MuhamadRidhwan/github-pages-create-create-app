@@ -73,65 +73,76 @@ export const PreviousSCDS = () => (
   <Styles>
         <br/> <br/>
     <Carousel height= "100px">
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={scds2019}
-          alt="First slide"
-          width="100%"
-          height="100%"
-        />
-        <Carousel.Caption>
-        </Carousel.Caption>
-      </Carousel.Item>
+            <Carousel.Item>
+                  <a href = "https://aaec.uitm.edu.my/scds2019/" target="_blank">
+                        <img
+                        className="d-block w-100"
+                        src={scds2019}
+                        alt="First slide"
+                        width="100%"
+                        height="100%"      
+                        />
+                  </a>
+            <Carousel.Caption>
+            </Carousel.Caption>
+            </Carousel.Item>
 
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={scds2018}
-          alt="First slide"
-          width="100%"
-          height="100%"
-        />
-        <Carousel.Caption>
-        </Carousel.Caption>
-      </Carousel.Item>
+            <Carousel.Item>
+                  <a href = "https://aaec.uitm.edu.my/scds2018/" target="_blank">
+                        <img
+                        className="d-block w-100"
+                        src={scds2018}
+                        alt="First slide"
+                        width="100%"
+                        height="100%"
+                        />
+                  </a>
+            <Carousel.Caption>
+            </Carousel.Caption>
+            </Carousel.Item>
 
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={scds2017}
-          alt="First slide"
-          width="100%"
-          height="100%x"
-        />
-        <Carousel.Caption>
-        </Carousel.Caption>
-      </Carousel.Item>
+            <Carousel.Item>
+                  <a href = "https://aaec.uitm.edu.my/scds2017/" target="_blank">
+                        <img
+                        className="d-block w-100"
+                        src={scds2017}
+                        alt="First slide"
+                        width="100%"
+                        height="100%x"
+                        />
+                  </a>
+            <Carousel.Caption>
+            </Carousel.Caption>
+            </Carousel.Item>
 
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={scds2016}
-          alt="First slide"
-          width="100%"
-          height="100%"
-        />
-        <Carousel.Caption>
-        </Carousel.Caption>
-      </Carousel.Item>
+            <Carousel.Item>
+                  <a href = "https://fskm.uitm.edu.my/scds2016/" target="_blank">
+                        <img
+                        className="d-block w-100"
+                        src={scds2016}
+                        alt="First slide"
+                        width="100%"
+                        height="100%"
+                        />
+                  </a>
+            <Carousel.Caption>
+            </Carousel.Caption>
+            </Carousel.Item>
 
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={scds2015}
-          alt="First slide"
-          width="100%"
-          height="100%"
-        />
-        <Carousel.Caption>
-        </Carousel.Caption>
-      </Carousel.Item>
+            <Carousel.Item>
+                  <a href = "https://fskm.uitm.edu.my/scds2015/" target="_blank">
+                        <img
+                        className="d-block w-100"
+                        src={scds2015}
+                        alt="First slide"
+                        width="100%"
+                        height="100%"
+                        />
+                  </a>
+            <Carousel.Caption>
+            </Carousel.Caption>
+            </Carousel.Item>
+
     </Carousel>
   </Styles>
 )
