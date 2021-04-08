@@ -24,7 +24,7 @@ export const Proceeding = () => (
         Science series which is abstracted (indexed) by DBLP, EI, and Scopus.      
     </p>
     <p style={{ textAlign:'justify'}}>
-      The SCDS2021 proceeding will also be published in the Communications in Computer and Information Science series which is abstracted (indexed) by DBLP, EI, and Scopus.
+      The SCDS2021 proceeding will also be published in CCIS (Communications in Computer and Information Science), Springer indexed Scopus.
     </p>
 
     <Container>

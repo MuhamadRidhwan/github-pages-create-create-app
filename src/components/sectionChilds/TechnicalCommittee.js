@@ -16,7 +16,7 @@ export const TechnicalCommittee = () => (
     <h2>Technical Committee</h2> <br/>
     <p>
       <b>Patron</b><br/>
-      <i>(TBC)</i><br/>
+      <i>Naib Canselor UiTM</i><br/>
       Vice-Chancellor
       Universiti Teknologi MARA Malaysia<br/>
 
@@ -53,16 +53,12 @@ export const TechnicalCommittee = () => (
       Institut Teknologi Sepuluh Nopember <br/> <br/>
     
       <b>Secretariat </b> <br/>
-      <i> RENEU-online registration </i> <br/>
+      <i> Khairil Anuar Md Isa </i> <br/>
       Universiti Teknologi MARA <br/>
-      <i> Santi Puteri Rahayu, Ph.D </i> <br/>
+      <i> Santi Puteri Rahayu </i><br/>  
       Institut Teknologi Sepuluh Nopember <br/>
-      <i> Wibawati </i>	   
-      Institut Teknologi Sepuluh Nopember <br/>
-      <i> Azmah Maali </i> <br/>
-      Universiti Teknologi MARA <br/>
-      <i> Norkhalidah Mohd Aini </i> <br/>   
-      Universiti Teknologi MARA <br/> <br/>
+      <i> Wibawati </i><br/>
+      Institut Teknologi Sepuluh Nopember <br/> <br/>
 
       <b>Finance Committee </b><br/>
       <i> Nurbaizura Borhan </i> <br/>
@@ -92,27 +88,35 @@ export const TechnicalCommittee = () => (
       <i>Ahmad Nazim Bin Aimran </i> <br/>
       Universiti Teknologi MARA <br/>
       <i>Prof. Dr Nooritawati Md Tahir </i> <br/>
-      Universiti Teknologi MARA <br/>
-      <i>Dr Saiful Farik Mat Yatin </i> <br/>
-      Universiti Teknologi MARA <br/>
+      ReNeU, Universiti Teknologi MARA <br/>
       <i>Siti Haslinda Mohd Din </i> <br/>
       Jabatan Perangkaan Malaysia <br/> 
+      <i>Sharifah Sakinah Syed Ahmad </i> <br/>
+      Universiti Teknikal Malaysia <br/> 
+      <i>Khairil Anuar Md Isa </i> <br/>
+      Universiti Teknologi MARA <br/> 
       <i>Muhammad Asmu’i Abdul Rahim </i> <br/>  
       Universiti Teknologi MARA <br/><br/>
 
       <b> Publication Committee (Program Book/Book of Abstracts-get ISBN-Penerbit UiTM) </b> <br/>
       <i> Marina Yusoff </i> <br/>
       Universiti Teknologi MARA <br/>
+      <i> Saiful Farik Mat Yatin </i> <br/>
+      Universiti Teknologi MARA <br/>
       <i> Sayang Mohd Deni </i> <br/>
       Universiti Teknologi MARA <br/>
       <i> Muhammad Ahsan </i> <br/>
       Institut Teknologi Sepuluh Nopember <br/><br/>
 
-      <b> Website Committee </b> <br/>
+      <b> Website & Online Committee </b> <br/>
       <i> Mohamad Asyraf Abdul Latif </i> <br/>
       Universiti Teknologi MARA <br/>
       <i> Muhamad Ridhwan Muhamad Razali  </i> <br/>
-      Universiti Teknologi MARA <br/>
+      Universiti Teknologi MARA <br/><br/>
+
+      <b> Montage </b> <br/>
+      <i> Azmil Abd Rahman </i> <br/>
+       <br/><br/>
 
     </p>
   </div>

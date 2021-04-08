@@ -40,11 +40,6 @@ export const Organizer = () => (
     </p>
 
     <p>
-      <b>•	Associate Professor Dr Ubydul Haque <br/> </b>
-      Universiti of North Texas Health Care Centre, USA <br/>
-    </p>
-
-    <p>
       <b>•	Professor Dr Ruhana Ku Mahamud <br/> </b>
       Universiti Utara Malaysia, Malaysia <br/>
     </p>
@@ -147,6 +142,11 @@ export const Organizer = () => (
     <p>
       <b>•	Associate Professor Dr Mohamed Chaouch <br/></b>
       Qatar University, Qatar <br/>
+    </p>
+
+    <p>
+      <b>•	Dr. Abdul Haris Rangkuti, S.Kom., M.M., M.Si. <br/></b>
+      BINUS University, Indonesia <br/>
     </p>
 
   </div>

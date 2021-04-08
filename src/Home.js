@@ -6,8 +6,7 @@ import Helmet from "react-helmet";
 import img1 from './assets/images/contents/ccis.png';
 import book1 from './assets/images/contents/book1.jpg';
 import book2 from './assets/images/contents/book2.png';
-import book3 from './assets/images/contents/book3.jpg';
-import book4 from './assets/images/contents/book4.png';
+import book4 from './assets/images/contents/book5.jpg';
 
 import speaker1 from './assets/images/contents/speaker1.jpg';
 import speaker2 from './assets/images/contents/speaker2.jpg';
@@ -15,10 +14,11 @@ import speaker3 from './assets/images/contents/speaker3.jpg';
 import speaker4 from './assets/images/contents/speaker4.jpg';
 import speaker5 from './assets/images/contents/speaker5.jpg';
 import speaker6 from './assets/images/contents/speaker6.jpg';
+import speaker7 from './assets/images/contents/speaker7.jpg';
 
 import poster from './assets/images/contents/PosterSCDS2021.jpg';
 
-import sponsor from './assets/images/contents/sponsor.jpg';
+import sponsor from './assets/images/contents/sponsor.png';
 
 import { Jumbotron } from './components/Jumbotron';
 
@@ -65,15 +65,14 @@ export const Home = () => (
                                     Information Science series which is abstracted (indexed) by DBLP
                                     , EI, Scopus and were submitted for the inclusion in ISI Proceedings. Authors of accepted papers will be invited to submit extended paper to: </p>
 
-                                    <p>{'\u2022'} Fast Track Submission of Selected Papers to Applied Soft Computing, Elsevier. (IF=3.541) </p>
-                                    <p>{'\u2022'} Pertanika Journal of Science and Technology (with additional publication charge of RM750). <br/> &nbsp; 
-                                    http://pertanika.upm.edu.my/JST.php </p>
-                                    <p>{'\u2022'} Malaysian Journal of Computing (https://mjoc.uitm.edu.my)[ISSN: 2231-7474] </p>
-                                    <p>{'\u2022'} Indonesian Journal of Computing and Cybernetics (https://journal.ugm.ac.id/ijcss) </p>
+                                    <p>{'\u2022'} Applied Soft Computing, Elsevier.(Q1: Fast Track Submission) </p>
+                                    <p>{'\u2022'} Journal of Information and Communication Technology (JICT) <br/> &nbsp; 
+                                    (uum.edu.my) (Q2) </p>
+                                    <p>{'\u2022'} Pertanika Journal of Science and Technology (with additional publication charge of RM750) <br/> &nbsp;  
+                                    http://pertanika.upm.edu.my/JST.php (Q3) </p>
 
                                     <NavbarBrand><img src={book1} alt="wrapkit" height= "250px" width= "180px"/></NavbarBrand>
                                     <NavbarBrand><img src={book2} alt="wrapkit" height= "250px" width= "180px"/></NavbarBrand>
-                                    <NavbarBrand><img src={book3} alt="wrapkit" height= "250px" width= "180px"/></NavbarBrand>
                                     <NavbarBrand><img src={book4} alt="wrapkit" height= "250px" width= "180px"/></NavbarBrand> <br/> <br/>
 
                                     <h2>Keynote Speakers</h2>    <br/> 
@@ -81,7 +80,21 @@ export const Home = () => (
                     {/* <Row className="justify-content-center">         
                         <h1 className="title font-bold">Keynote Speaker</h1> 
                     </Row> */}
-                    <Row style={{justifyContent: 'space-between', justifyItems:'space-between'}}>     
+                    <Row style={{justifyContent: 'space-between', justifyItems:'space-between'}}>   
+
+                        <Card style={{ width: '15rem' }}>
+                            <Card.Img variant="top" src={speaker7} width="100px" height="220px"/>
+                            <Card.Body>
+                            <Card.Title>Ybhg Dato' Sri Dr Uzir Mahidin <br/></Card.Title>
+                            <Card.Text>
+                                Chief Statistician Malaysia  <br/><br/> <u><b>Research Areas</b></u><br/><br/>     
+                                Big Data Analytics, Economics <br/> <br/>
+                                 {/* <Card body className="card-shadow" style={{justifyContent:'space-around', justifyItems:'space-around', display:'flex'}}> */}
+                                    <Button style={{justifyContent:'space-around'}} href="https://www.iaos-isi.org/index.php/executive-committee-members-2017-2019/201-mohd-uzir-mahidin-member" target="_blank">Abstract</Button>
+                                 {/* </Card>  */}
+                            </Card.Text>
+                            </Card.Body>
+                        </Card>   
                         
                         <Card style={{ width: '15rem' }}>
                             <Card.Img variant="top" src={speaker1} width="100px" height="220px"/>
@@ -109,20 +122,23 @@ export const Home = () => (
                                 {/* </Card> */}
                             </Card.Text>
                             </Card.Body>
-                        </Card>           
+                        </Card>       
                         <Card style={{ width: '15rem' }}>
-                            <Card.Img variant="top" src={speaker2} width="100px" height="220px"/>
+                            <Card.Img variant="top" src={speaker5} width="100px" height="220px"/>
                             <Card.Body>
-                            <Card.Title>Professor Dr. Richard Millham <br/></Card.Title>
+                            <Card.Title>Associate Professor Dr. Aiden Doherty <br/></Card.Title>
                             <Card.Text>
-                                Faculty of Accounting and Informatics, <br/> Durban University of Technology Kwazulu Natal, South Africa. <br/><br/> <u><b>Research Areas</b></u><br/><br/>     
-                                Software and data evolution, Cloud Computing, Big Data, Bio-inspired Algorithms, IOT <br/> <br/>
+                                Group Leader, <br/> Oxford Big Data Institute Oxford University, UK. <br/><br/> <u><b>Research Areas</b></u><br/><br/>     
+                                Wearable Sensors, Machine Learning, Genomics <br/> <br/>
                                 {/* <Card body className="card-shadow" style={{justifyContent:'center', justifyItems:'center'}}> */}
-                                    <Button style={{justifyContent:'center'}} href="https://www.dut.ac.za/space_science/prof_millham/" target="_blank">Abstract</Button>
+                                    <Button style={{justifyContent:'center'}} href="https://www.ndph.ox.ac.uk/team/aiden-doherty" target="_blank">Abstract</Button>
                                 {/* </Card> */}
                             </Card.Text>
                             </Card.Body>
-                        </Card> 
+                        </Card>     
+
+        
+                        
                         <Card style={{ width: '15rem' }}>
                             <Card.Img variant="top" src={speaker3} width="100px" height="220px"/>
                             <Card.Body>
@@ -136,19 +152,21 @@ export const Home = () => (
                             </Card.Text>
                             </Card.Body>
                         </Card>      
+
                         <Card style={{ width: '15rem' }}>
-                            <Card.Img variant="top" src={speaker5} width="100px" height="220px"/>
+                            <Card.Img variant="top" src={speaker2} width="100px" height="220px"/>
                             <Card.Body>
-                            <Card.Title>Associate Professor Dr. Aiden Doherty <br/></Card.Title>
+                            <Card.Title>Professor Dr. Richard Millham <br/></Card.Title>
                             <Card.Text>
-                                Group Leader, <br/> Oxford Big Data Institute Oxford University, UK. <br/><br/> <u><b>Research Areas</b></u><br/><br/>     
-                                Wearable Sensors, Machine Learning, Genomics <br/> <br/>
+                                Faculty of Accounting and Informatics, <br/> Durban University of Technology Kwazulu Natal, South Africa. <br/><br/> <u><b>Research Areas</b></u><br/><br/>     
+                                Software and data evolution, Cloud Computing, Big Data, Bio-inspired Algorithms, IOT <br/> <br/>
                                 {/* <Card body className="card-shadow" style={{justifyContent:'center', justifyItems:'center'}}> */}
-                                    <Button style={{justifyContent:'center'}} href="https://www.ndph.ox.ac.uk/team/aiden-doherty" target="_blank">Abstract</Button>
+                                    <Button style={{justifyContent:'center'}} href="https://www.dut.ac.za/space_science/prof_millham/" target="_blank">Abstract</Button>
                                 {/* </Card> */}
                             </Card.Text>
                             </Card.Body>
-                        </Card>                 
+                        </Card> 
+                                    
                         <Card style={{ width: '15rem' }}>
                             <Card.Img variant="top" src={speaker6} width="100px" height="220px"/>
                             <Card.Body>
@@ -162,9 +180,13 @@ export const Home = () => (
                                 {/* </Card> */}
                             </Card.Text>
                             </Card.Body>
-                        </Card>                                                                  
-                    </Row>
-                </Container>  
+                        </Card>   
+
+                        <Card style={{ width: '15rem' }}>
+                           
+                        </Card>                                                                                         
+                    </Row>  
+                </Container>   
 
                 <br/>    
                 <a href={poster} target="_blank">Poster SCDS 2021</a> 

@@ -25,23 +25,12 @@ const Styles = styled.div`
     text-align: center;
     transition: 200ms;
     padding: 1rem;
-    margin: .5rem 1rem;
+    margin: 1rem 0rem 0rem 0rem;
     &:hover {
     box-shadow: 0 0 2rem gray;
     }
  }
 `;
-
-// footer {
-//   width: 100%;
-//   padding: 1rem;
-//   margin: .5rem 1rem;
-//   text-align: center;
-//   transition: 200ms;
-//   &:hover {
-//     box-shadow: 0 0 2rem gray;
-//   }
-// }
 
 function Footer() {
   return (
